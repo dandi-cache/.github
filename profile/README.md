@@ -1,8 +1,8 @@
 # 👋 Welcome to DANDI Cache!
 
-This is a collection of pre-computed mappings commonly used by developers in relation to the DANDI Archive.
+A collection of pre-computed mappings commonly used by developers working with the DANDI Archive.
 
-See the `README` of each repository for instructions on how to use each cache.
+Check the `README` in each repository for usage instructions.
 
 
 
