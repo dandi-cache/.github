@@ -4,6 +4,8 @@ This is a living collection of up-to-date pre-computed mappings commonly used by
 
 Check the `README` in each repository for usage instructions.
 
+See the [master listing](https://github.com/dandi-cache/.github#readme) for an overview of all caches — it is also a [DataLad](https://www.datalad.org/) superdataset for easy immediate retrieval of the entire collection.
+
 
 
 ## Quick Links
