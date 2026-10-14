@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" viewBox="0 0 545 545" width="545" height="545">
+  <g id="cache-front" inkscape:groupmode="layer" inkscape:label="cache-front">
+    <path id="front-outline" fill="#344453" d="M67,279 H168 Q172,279 174,282 L198,318 Q202,323 208,323 H338 Q344,323 348,318 L372,282 Q374,279 378,279 H479 Q491,279 491,291 V522 Q491,534 479,534 H67 Q55,534 55,522 V291 Q55,279 67,279 Z"/>
+    <path id="front-face" fill="#AAB2BD" d="M73,289 H162 Q166,289 168,292 L193,330 Q196,335 203,335 H343 Q350,335 353,330 L378,292 Q380,289 384,289 H473 Q479,289 479,295 V506 Q479,512 473,512 H73 Q67,512 67,506 V295 Q67,289 73,289 Z"/>
+    <rect id="handle" fill="#3F4F5F" x="218" y="394" width="110" height="39" rx="10"/>
+  </g>
+</svg>

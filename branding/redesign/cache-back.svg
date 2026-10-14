@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" viewBox="0 0 545 545" width="545" height="545">
+  <g id="cache-back" inkscape:groupmode="layer" inkscape:label="cache-back">
+    <path id="tray-rim" fill="#5C6A77" d="M103,168 H443 Q452,168 454,176 L490,286 V330 H56 V286 L92,176 Q94,168 103,168 Z"/>
+    <path id="tray-interior" fill="#242E37" d="M111,177 H435 Q441,177 443,183 L477,290 V330 H69 V290 L103,183 Q105,177 111,177 Z"/>
+  </g>
+</svg>
